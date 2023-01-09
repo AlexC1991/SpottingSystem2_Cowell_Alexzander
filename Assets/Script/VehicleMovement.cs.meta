@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e07d900d1c3eb1249a3bfe4badfe55ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vehicleToMove: {instanceID: 0}
+  - inTangleble: {fileID: 2100000, guid: 31c04007697460e429a5111cca2a0405, type: 2}
+  - tangleble: {fileID: 2100000, guid: d667e695b9b653b44b12b0254e5c0d14, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
